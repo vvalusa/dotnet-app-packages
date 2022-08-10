@@ -1,0 +1,15 @@
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/bin/Release/net6.0/OctocatApp
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/bin/Release/net6.0/OctocatApp.deps.json
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/bin/Release/net6.0/OctocatApp.runtimeconfig.json
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/bin/Release/net6.0/OctocatApp.dll
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/bin/Release/net6.0/OctocatApp.pdb
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.csproj.AssemblyReference.cache
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.AssemblyInfoInputs.cache
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.AssemblyInfo.cs
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.csproj.CoreCompileInputs.cache
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.dll
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/refint/OctocatApp.dll
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.pdb
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/OctocatApp.genruntimeconfig.cache
+/Users/vidyadharivalusa/Documents/workspace/manhatton/dotnet-nuget-packages/OctocatApp/obj/Release/net6.0/ref/OctocatApp.dll
